@@ -4,12 +4,25 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg)](https://fastapi.tiangolo.com)
 [![Next.js 14](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org)
 [![Tests Passing](https://img.shields.io/badge/tests-19%2F19%20passed-brightgreen.svg)]()
+[![Live Website](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success.svg)](https://hc892344-jpg.github.io/GD-Arena-/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 
 > **Built for Campus Placements & Interview Prep (Problem Statement 2)**  
 > GD Arena is a voice-first AI Group Discussion practice platform where students discuss real-world topics with **5 distinct AI personas** and an **AI Moderator** in real time, followed by an **evidence-based performance evaluation report** with personalized improvement roadmaps.  
 >  
 > 📑 **For Hackathon Judges**: Read our concise 3-minute executive summary & architecture overview in **[JUDGES_REPORT.md](JUDGES_REPORT.md)**.
+
+---
+
+## 🌐 Live Website (Click to Open)
+
+🚀 **Experience GD Arena Live directly in your browser:**  
+### 👉 [https://hc892344-jpg.github.io/GD-Arena-/](https://hc892344-jpg.github.io/GD-Arena-/)
+
+- 🎙️ **Voice-First & Direct Typing**: Speak via microphone or type your arguments.
+- 🤖 **5 Distinct AI Personas**: Real-time cross-participant debate without repetitive loops.
+- 📊 **Instant Rubric Evaluation**: Transcript-linked quotes, performance radar, and 3-step action roadmap.
+- ⚡ **Interactive System Pipeline**: Explore the architectural pipeline right on the site.
 
 ---
 
