@@ -2,8 +2,7 @@
 **Project Name**: GD Arena (Voice-First AI Group Discussion Training Platform)  
 **Problem Statement**: PS-2 (Realistic Group Discussion Practice & Evidence-Based Feedback)  
 **Target Audience**: College students & graduates preparing for Campus Placements, MBA GDs, and Job Interviews  
-**Live URL**: [https://aryanbaghel756-spec.github.io/main_gd_arena/](https://aryanbaghel756-spec.github.io/main_gd_arena/)  
-**GitHub Repository**: [https://github.com/aryanbaghel756-spec/main_gd_arena](https://github.com/aryanbaghel756-spec/main_gd_arena)
+**GitHub Repository**: [https://github.com/hc892344-jpg/GD-Arena-](https://github.com/hc892344-jpg/GD-Arena-)
 
 ---
 
@@ -116,13 +115,12 @@ Every finished session generates a detailed scorecard evaluated across 6 core cr
 - ✅ **Clean Codebase**: 0 sensitive environment variables committed; standard `.env.example` templates provided.
 - ✅ **1-Command Out-of-the-Box Execution**:
   ```bash
-  git clone https://github.com/aryanbaghel756-spec/main_gd_arena.git
-  cd main_gd_arena
+  git clone https://github.com/hc892344-jpg/GD-Arena-.git
+  cd GD-Arena-
   pip install -r requirements.txt
   python run.py
   ```
   *Opens full Next.js UI + FastAPI backend + Swagger docs automatically on `http://localhost:8000`.*
-- ✅ **Live Worldwide Deployment**: Available instantly on GitHub Pages at [https://aryanbaghel756-spec.github.io/main_gd_arena/](https://aryanbaghel756-spec.github.io/main_gd_arena/).
 
 ---
 

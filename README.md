@@ -4,7 +4,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg)](https://fastapi.tiangolo.com)
 [![Next.js 14](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org)
 [![Tests Passing](https://img.shields.io/badge/tests-19%2F19%20passed-brightgreen.svg)]()
-[![Live Website](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success.svg)](https://aryanbaghel756-spec.github.io/main_gd_arena/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 
 > **Built for Campus Placements & Interview Prep (Problem Statement 2)**  
@@ -14,26 +13,14 @@
 
 ---
 
-## 🌐 Live Website (Click to Open)
-
-🚀 **Experience GD Arena Live directly in your browser:**  
-### 👉 [https://aryanbaghel756-spec.github.io/main_gd_arena/](https://aryanbaghel756-spec.github.io/main_gd_arena/)
-
-- 🎙️ **Voice-First & Direct Typing**: Speak via microphone or type your arguments.
-- 🤖 **5 Distinct AI Personas**: Real-time cross-participant debate without repetitive loops.
-- 📊 **Instant Rubric Evaluation**: Transcript-linked quotes, performance radar, and 3-step action roadmap.
-- ⚡ **Interactive System Pipeline**: Explore the architectural pipeline right on the site.
-
----
-
 ## ⚡ Quick Start for Judges & Users (1 Command)
 
 No complex setup or database installation needed. The repository includes the pre-compiled production Next.js frontend embedded directly inside FastAPI.
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/aryanbaghel756-spec/main_gd_arena.git
-cd main_gd_arena
+git clone https://github.com/hc892344-jpg/GD-Arena-.git
+cd GD-Arena-
 pip install -r requirements.txt
 ```
 
